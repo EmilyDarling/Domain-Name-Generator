@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 let pronouns = ["the", "our", "my"];
 let adjs = ["great", "big", "fancy"];
 let nouns = ["jogger", "racoon", "flower"];
